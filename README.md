@@ -18,7 +18,7 @@ A simple Jupyter Notebook for learning text-completion fine-tuning using QLoRA i
 5. (Optional) In the terminal, type `virtualenv venv` and then `source venv/bin/activate` to activate the virtual env.
 6. Run the command `pip3 install -r requirements.txt`.
 7. In the terminal, type `jupyter lab`. The UI should open automatically - if it doesn't, there should be a URL in the terminal you can copy and paste into your browser.
-8. Open up the `.ipynb` file (i.e. the Notebook) in the UI.
+8. Once the UI is up, open up the `.ipynb` file (i.e. the Notebook).
 
 ### Running the Notebook
 1. Instructions are in the Notebook! In short, simply click the Run dropdown in the top left, and select Run All Cells.
