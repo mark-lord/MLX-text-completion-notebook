@@ -1,7 +1,7 @@
 # MLX-text-completion-notebook
-A simple Jupyter Notebook for learning MLX text-completion fine-tuning!
+A simple Jupyter Notebook for learning MLX text-completion fine-tuning.
 
-# Brought to you by the Curriculum Protocol squad at [ValleyDAO](https://valleydao.bio).
+### Brought to you by the Curriculum Protocol squad at [ValleyDAO](https://valleydao.bio)!
 
 [**Quickstart**](#quickstart) | [**Installation**](#installation) |
 [**Documentation**](https://ml-explore.github.io/mlx/build/html/index.html) |
