@@ -27,9 +27,9 @@ A simple Jupyter Notebook for learning QLoRA MLX text-completion fine-tuning.
 
 
 ## Roadmap
-As MLX becomes more advanced and different loss functions become possible, we'll release more Notebooks (such as for Instruction-tuning, DPO, PPO, etc.)
+- As MLX becomes more advanced and different loss functions become possible, we'll release more Notebooks (such as for Instruction-tuning, DPO, PPO, etc.)
 
-It's currently possible to target the MLP weights in MLX QLoRA, but it requires manually editing a file in the MLX-lm QLoRA tuner directory - which is a bit faffy. Once that becomes editable via config we'll release an updated Notebook.
+- It's currently possible to target the MLP weights in MLX QLoRA, but it requires manually editing a file in the MLX-lm QLoRA tuner directory - which is a bit faffy. Once that becomes editable via config we'll release an updated Notebook.
 
 
 ## Citing MLX
