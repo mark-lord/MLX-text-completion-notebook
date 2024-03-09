@@ -1,4 +1,4 @@
-# MLX-text-completion-notebook
+# MLX Text-completion Notebook
 A simple Jupyter Notebook for learning text-completion fine-tuning using QLoRA in the MLX framework.
 
 ### Brought to you by the Curriculum Protocol squad at [ValleyDAO](https://valleydao.bio)!
