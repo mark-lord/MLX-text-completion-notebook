@@ -21,16 +21,16 @@ A simple Jupyter Notebook for doing text-completion fine-tuning using QLoRA in t
 8. Once the UI is up, open up the `.ipynb` file (i.e. the Notebook).
 
 ### Running the Notebook
-1. Instructions are in the Notebook! In short, simply click the Run dropdown in the top left, and select Run All Cells.
+1. Instructions are in the Notebook! In short, simply click Run in the top left. There should be a drop down - select Run All Cells.
 2. Once you've run all cells, you've officially fine-tuned a model in MLX!
 3. (Optional) Swap out the dataset for your own dataset.
 
 
 ## Roadmap
-- As the fantastic team behind MLX continues to work on bringing more features to MLX-lm and different loss functions become possible, we'll release more Notebooks (such as for Instruction-tuning, DPO, PPO, etc.)
+- As the fantastic team behind MLX (huge props to awni et al.) continues to work on bringing more features to MLX-lm and different loss functions become possible, we'll release more Notebooks (such as for Instruction-tuning, DPO, PPO, etc.)
 - Additionally, it's currently possible to target the MLP weights and train at much higher rank in MLX QLoRA, but it requires manually editing a file in the MLX-lm QLoRA tuner directory - which is a bit faffy. Once that becomes editable via config we'll release an updated Notebook.
 - The [mlx-tuning-fork](https://github.com/chimezie/mlx-tuning-fork) repo offers a few cool features - namely learning rate scheduling. Would be good to release an updated Notebook that makes use of the scheduler.
-- Making a dataset from scratch with no coding knowledge can be more than half the battle when getting started. Would be great to release a Notebook that can either explain the process of creating a task-specific dataset in more accessible terms, or else abstract away the complexity of doing dataset curation. Or both. Augmentoolkit
+- Making a dataset from scratch with no coding knowledge can be more than half the battle when getting started. Would be great to release a Notebook that can either explain the process of creating a task-specific dataset in more accessible terms, or else abstract away the complexity of doing dataset curation. Or both. The [Augmentoolkit API fork](https://github.com/e-p-armstrong/augmentoolkit/tree/api-branch) is a great starting point for this sort of thing.
 
 
 ## Citing MLX
