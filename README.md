@@ -7,7 +7,7 @@ A simple Jupyter Notebook for learning MLX text-completion fine-tuning!
 [**Documentation**](https://ml-explore.github.io/mlx/build/html/index.html) |
 [**Examples**](#examples) 
 
-[!(https://assets-global.website-files.com/630dbea24a4625cd2f1e793f/6374ac6ecba339a710f33ca0_ValeyDAO%20Header%20Large%202.jpg)]
+![https://valleydao.bio](https://assets-global.website-files.com/630dbea24a4625cd2f1e793f/6374ac6ecba339a710f33ca0_ValeyDAO%20Header%20Large%202.jpg)]
 
 MLX is an array framework for machine learning research on Apple silicon,
 brought to you by Apple machine learning research.
