@@ -31,6 +31,7 @@ A simple Jupyter Notebook for doing text-completion fine-tuning using QLoRA in t
 - Additionally, it's currently possible to target the MLP weights and train at much higher rank in MLX QLoRA, but it requires manually editing a file in the MLX-lm QLoRA tuner directory - which is a bit faffy. Once that becomes editable via config we'll release an updated Notebook.
 - The [mlx-tuning-fork](https://github.com/chimezie/mlx-tuning-fork) repo offers a few cool features - namely learning rate scheduling. Would be good to release an updated Notebook that makes use of the scheduler.
 - Making a dataset from scratch with no coding knowledge can be more than half the battle when getting started. Would be great to release a Notebook that can either explain the process of creating a task-specific dataset in more accessible terms, or else abstract away the complexity of doing dataset curation. Or both. The [Augmentoolkit API fork](https://github.com/e-p-armstrong/augmentoolkit/tree/api-branch) is a great starting point for this sort of thing.
+- Fusing weights just to convert to other formats such as .GGUF is necessary for most methods of serving - e.g. LMStudio currently only takes .GGUF. But fusing weights can lead to performance trade-offs. Would be good to build another notebook for end-to-end training and hosting in [MLX-server](https://github.com/mzbac/mlx-llm-server) to demonstrate the potential for remaining in the MLX ecosystem. Especially as performance improvements continue to roll out and rival the speed of Llama.cpp-based inference.
 
 
 ## Citing MLX
