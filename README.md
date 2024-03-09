@@ -17,7 +17,7 @@ A simple Jupyter Notebook for doing text-completion fine-tuning using QLoRA in t
 4. (Optional) Install [Virtualenv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html) to set up a virtual environment before installing the requirements.txt.
 5. (Optional) In the terminal, type `virtualenv venv` and then `source venv/bin/activate` to activate the virtual env.
 6. Run the command: `pip3 install -r requirements.txt`.
-7. In the terminal, type `jupyter lab`. The UI should open automatically - if it doesn't, there should be a URL in the terminal you can copy and paste into your browser.
+7. In the terminal, type `jupyter lab`. The UI should open automatically - if it doesn't, there should be a URL in the terminal that you can copy and paste into your browser.
 8. Once the UI is up, open up the `.ipynb` file (i.e. the Notebook).
 
 ### Running the Notebook
