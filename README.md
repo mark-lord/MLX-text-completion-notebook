@@ -13,7 +13,7 @@ A simple Jupyter Notebook for learning text-completion fine-tuning using QLoRA i
 ### Install
 1. Follow these instructions to [install Jupyter Lab](https://jupyter.org/install).
 2. Download this repo (or just the `.ipynb` file and the `requirements.txt`) to a folder on your Mac.
-3. Right click on the folder containing the files and select Open in Terminal.
+3. Right click on that folder - i.e. the one containing your files - and select Open in Terminal.
 4. (Optional) Install [Virtualenv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html) to set up a virtual environment before installing the requirements.txt.
 5. (Optional) In the terminal, type `virtualenv venv` and then `source venv/bin/activate` to activate the virtual env.
 6. Run the command `pip3 install -r requirements.txt`.
