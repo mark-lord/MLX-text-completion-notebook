@@ -1,5 +1,5 @@
 # MLX Text-completion Notebook
-A simple Jupyter Notebook for learning text-completion fine-tuning using QLoRA in the MLX framework.
+A simple Jupyter Notebook for doing text-completion fine-tuning using QLoRA in the MLX framework. By default this Notebook fine-tunes TinyLlama 1.1b on 500 entries of the TinyStories dataset. It should be useable by any Apple Silicon MacBook with at least 16GB RAM.
 
 ### Brought to you by the Curriculum Protocol squad at [ValleyDAO](https://valleydao.bio)!
 
