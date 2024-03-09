@@ -11,19 +11,19 @@ A simple Jupyter Notebook for learning text-completion fine-tuning using QLoRA i
 ## Quickstart
 
 ### Install
-1. Follow these instructions to [install Jupyter Lab](https://jupyter.org/install)
-2. Download this repo (or just the `.ipynb` file and the `requirements.txt`) to a folder on your Mac
-3. Right click on the folder containing the files and select Open in Terminal
-4. (Optional) Install [Virtualenv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html) to set up a virtual environment before installing the requirements.txt
-5. (Optional) In the terminal, type `virtualenv venv` and then `source venv/bin/activate` to activate the virtual env
-6. Run the command `pip3 install -r requirements.txt`
-7. In the terminal, type `jupyter lab`
-8. Open up the `.ipynb`
+1. Follow these instructions to [install Jupyter Lab](https://jupyter.org/install).
+2. Download this repo (or just the `.ipynb` file and the `requirements.txt`) to a folder on your Mac.
+3. Right click on the folder containing the files and select Open in Terminal.
+4. (Optional) Install [Virtualenv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html) to set up a virtual environment before installing the requirements.txt.
+5. (Optional) In the terminal, type `virtualenv venv` and then `source venv/bin/activate` to activate the virtual env.
+6. Run the command `pip3 install -r requirements.txt`.
+7. In the terminal, type `jupyter lab`. The UI should open automatically - if it doesn't, there should be a URL in the terminal you can copy and paste into your browser.
+8. Open up the `.ipynb` file (i.e. the Notebook) in the UI.
 
 ### Running the Notebook
-1. Instructions are in the Notebook - go to Run > Run All Cells
+1. Instructions are in the Notebook! In short, simply click the Run dropdown in the top left, and select Run All Cells.
 2. Once you've run all cells, you've officially fine-tuned a model in MLX!
-3. (Optional) Swap out the dataset for your own dataset
+3. (Optional) Swap out the dataset for your own dataset.
 
 
 ## Roadmap
