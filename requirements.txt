@@ -1,0 +1,9 @@
+mlx
+mlx_lm
+transformers
+numpy
+huggingface_hub
+hf_transfer
+torch
+datasets
+sentencepiece
