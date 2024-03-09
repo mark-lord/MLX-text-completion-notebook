@@ -5,7 +5,7 @@ A simple Jupyter Notebook for learning QLoRA MLX text-completion fine-tuning.
 
 [**Quickstart**](#quickstart) | [**Roadmap**](#roadmap)
 
-![https://valleydao.bio](valleydao.png)
+![https://valleydao.bio](ValleyDAO.png)
 
 
 ## Quickstart
