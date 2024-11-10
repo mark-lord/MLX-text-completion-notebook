@@ -28,7 +28,9 @@ A simple Jupyter Notebook for doing text-completion fine-tuning using QLoRA in t
 3. (Optional) Swap out the dataset for your own dataset.
 
 
-## Roadmap
+## Roadmap - Nothing for now
+EDIT: Unfortunately my priorities have been elsewhere, so for now I'm not continuing with the maintenance of this notebook. Apologies!
+---
 - As the fantastic team behind MLX continues to work on bringing more features to MLX-lm and different loss functions become possible, we'll release more Notebooks (such as for Instruction-tuning, DPO, PPO, etc.)
 - Additionally, it's currently possible to target the MLP weights and train at much higher rank in MLX QLoRA, but it requires manually editing a file in the MLX-lm QLoRA tuner directory - which is a bit faffy. Once that becomes editable via config we'll release an updated Notebook.
 - The [mlx-tuning-fork](https://github.com/chimezie/mlx-tuning-fork) repo offers a few cool features - namely learning rate scheduling. Would be good to release an updated Notebook that makes use of the scheduler.
